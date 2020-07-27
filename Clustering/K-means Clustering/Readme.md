@@ -34,6 +34,8 @@ It halts creating and optimizing clusters when either
 
 (4)Using Elbow method to find optimal number of cluster.
 
+![elbow method](https://user-images.githubusercontent.com/55452866/88565223-ec15c700-d051-11ea-8ffd-58cf1fe6afb1.png)
+
 (5)Training the Kmeans model.
 
 (6)Visualising the Clusters.
