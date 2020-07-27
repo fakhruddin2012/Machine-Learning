@@ -40,6 +40,12 @@ In the above example, we have given some characters to our model which are ‘Du
 Unsupervised learning can be split into two subcategories: Clustering and Association.
 ![type-of-Unsupervised-L](https://user-images.githubusercontent.com/55452866/88557575-0054c680-d048-11ea-8286-ad6abfd33be3.png)
 
+## Overview of Reinforcement Learning
+
+A reinforcement learning algorithm, or agent, learns by interacting with its environment. The agent receives rewards by performing correctly and penalties for performing incorrectly. The agent learns without intervention from a human by maximizing its reward and minimizing its penalty. It is a type of dynamic programming that trains algorithms using a system of reward and punishment.
+
+
+
 
 
 
