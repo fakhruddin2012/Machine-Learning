@@ -1,4 +1,4 @@
-# Machine-Learning
+
 ![ml](https://user-images.githubusercontent.com/55452866/88549039-77389200-d03d-11ea-8f68-b7e93e8796c4.jpg)
 
 ## What is Machine Learning?
@@ -20,7 +20,7 @@ Machine learning can be classified into 3 types of algorithms.
 
 ![types of machine learning](https://user-images.githubusercontent.com/55452866/88554570-4c9e0780-d044-11ea-9f33-208a1be0f4b2.png)
 
-## Overview of Supervised Learning Algorithm
+## Overview of Supervised Learning Algorithm:
 
 Supervised machine learning algorithms are designed to learn by example. The name “supervised” learning originates from the idea that training this type of algorithm is like having a teacher supervise the whole process.
 
@@ -28,6 +28,12 @@ When training a supervised learning algorithm, the training data will consist of
 
 Supervised learning can be split into two subcategories: Classification and regression.
 ![type of supervised learning](https://user-images.githubusercontent.com/55452866/88555413-6db32800-d045-11ea-9f78-93dce5c35fe3.png)
+
+## Overview of Unsupervised Learning Algorithm:
+
+In unsupervised learning, an AI system is presented with unlabeled, uncategorized data and the system’s algorithms act on the data without prior training. The output is dependent upon the coded algorithms. Subjecting a system to unsupervised learning is one way of testing AI.
+
+
 
 
 
