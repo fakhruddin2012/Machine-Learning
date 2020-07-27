@@ -33,6 +33,9 @@ Supervised learning can be split into two subcategories: Classification and regr
 
 In unsupervised learning, an AI system is presented with unlabeled, uncategorized data and the system’s algorithms act on the data without prior training. The output is dependent upon the coded algorithms. Subjecting a system to unsupervised learning is one way of testing AI.
 
+![type of unsupervised learning](https://user-images.githubusercontent.com/55452866/88557004-4c533b80-d047-11ea-97b6-08b93d03a29d.png)
+
+
 
 
 
