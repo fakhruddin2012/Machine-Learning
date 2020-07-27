@@ -21,6 +21,6 @@ To process the learning data, the K-means algorithm in data mining starts with a
 
 It halts creating and optimizing clusters when either
 
--The centroids have stabilized — there is no change in their values because the clustering has been successful.
+-The centroids have stabilized there is no change in their values because the clustering has been successful.
 
 -The defined number of iterations has been achieved.
