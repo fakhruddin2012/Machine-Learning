@@ -26,6 +26,11 @@ Supervised machine learning algorithms are designed to learn by example. The nam
 
 When training a supervised learning algorithm, the training data will consist of inputs paired with the correct outputs. During training, the algorithm will search for patterns in the data that correlate with the desired outputs. After training, a supervised learning algorithm will take in new unseen inputs and will determine which label the new inputs will be classified as based on prior training data. The objective of a supervised learning model is to predict the correct label for newly presented input data.
 
+Supervised learning can be split into two subcategories: Classification and regression.
+
+![type of supervised learning](https://user-images.githubusercontent.com/55452866/88555413-6db32800-d045-11ea-9f78-93dce5c35fe3.png)
+
+
 
 
 
