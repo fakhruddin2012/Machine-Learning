@@ -37,10 +37,8 @@ In unsupervised learning, an AI system is presented with unlabeled, uncategorize
 
 In the above example, we have given some characters to our model which are ‘Ducks’ and ‘Not Ducks’. In our training data, we don’t provide any label to the corresponding data. The unsupervised model is able to separate both the characters by looking at the type of data and models the underlying structure or distribution in the data in order to learn more about it.
 
-Types of Unsupervised learning:
-
-(a)Clustering
-(b)Association
+Unsupervised learning can be split into two subcategories: Clustering and Association.
+![type-of-Unsupervised-L](https://user-images.githubusercontent.com/55452866/88557575-0054c680-d048-11ea-8286-ad6abfd33be3.png)
 
 
 
