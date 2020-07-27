@@ -1,4 +1,4 @@
-## K-Means Clustering
+## K-Means Clustering:
 K-means clustering is one of the simplest and popular unsupervised machine learning algorithms.
 
 Typically, unsupervised algorithms make inferences from datasets using only input vectors without referring to known, or labelled, outcomes.
@@ -15,7 +15,7 @@ In other words, the K-means algorithm identifies k number of centroids, and then
 
 The ‘means’ in the K-means refers to averaging of the data; that is, finding the centroid.
 
-## How the K-means algorithm works
+## How the K-means algorithm works:
 
 To process the learning data, the K-means algorithm in data mining starts with a first group of randomly selected centroids, which are used as the beginning points for every cluster, and then performs iterative (repetitive) calculations to optimize the positions of the centroids.
 
@@ -24,3 +24,11 @@ It halts creating and optimizing clusters when either
 -The centroids have stabilized there is no change in their values because the clustering has been successful.
 
 -The defined number of iterations has been achieved.
+
+## Steps in K-Means Notebooks:
+(1)Importing the library.
+(2)Importing the Data.
+(3)Exploring the Data.
+(4)Using Elbow method to find optimal number of cluster.
+(5)Training the Kmeans model.
+(6)Visualising the Clusters.
