@@ -44,6 +44,12 @@ Unsupervised learning can be split into two subcategories: Clustering and Associ
 
 A reinforcement learning algorithm, or agent, learns by interacting with its environment. The agent receives rewards by performing correctly and penalties for performing incorrectly. The agent learns without intervention from a human by maximizing its reward and minimizing its penalty. It is a type of dynamic programming that trains algorithms using a system of reward and punishment.
 
+![reinforcement learning](https://user-images.githubusercontent.com/55452866/88560758-24b2a200-d04c-11ea-9ea4-04c22a6d7c23.png)
+
+In the above example, we can see that the agent is given 2 options i.e. a path with water or a path with fire. A reinforcement algorithm works on reward a system i.e. if the agent uses the fire path then the rewards are subtracted and agent tries to learn that it should avoid the fire path. If it had chosen the water path or the safe path then some points would have been added to the reward points, the agent then would try to learn what path is safe and what path isn’t.
+
+It is basically leveraging the rewards obtained, the agent improves its environment knowledge to select the next action.
+
 
 
 
