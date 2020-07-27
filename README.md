@@ -3,5 +3,9 @@
 
 # Content
 
-## Introduction
+  ## Introduction
+  ## Terminology
+  ## Background Theory
+  ## Machine Learning Approaches
+
 
