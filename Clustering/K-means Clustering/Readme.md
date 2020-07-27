@@ -27,8 +27,13 @@ It halts creating and optimizing clusters when either
 
 ## Steps in K-Means Notebooks:
 (1)Importing the library.
+
 (2)Importing the Data.
+
 (3)Exploring the Data.
+
 (4)Using Elbow method to find optimal number of cluster.
+
 (5)Training the Kmeans model.
+
 (6)Visualising the Clusters.
