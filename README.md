@@ -18,7 +18,7 @@ Machine learning can be classified into 3 types of algorithms.
 3.Reinforcement Learning
 
 
-![types of machine learning](https://user-images.githubusercontent.com/55452866/88554570-4c9e0780-d044-11ea-9f33-208a1be0f4b2.png)
+                      ![types of machine learning](https://user-images.githubusercontent.com/55452866/88554570-4c9e0780-d044-11ea-9f33-208a1be0f4b2.png)
 
 
 
