@@ -39,3 +39,5 @@ It halts creating and optimizing clusters when either
 (5)Training the Kmeans model.
 
 (6)Visualising the Clusters.
+
+![cluster](https://user-images.githubusercontent.com/55452866/88565380-23847380-d052-11ea-9c0f-9a834b592340.png)
