@@ -23,7 +23,7 @@ The multiple regression model is based on the following assumptions:
 
 (5)Multiple linear regression requires at least two independent variables, which can be nominal, ordinal, or interval/ratio level variables.  A rule of thumb for the sample size is that regression analysis requires at least 20 cases per independent variable in the analysis. Learn more about sample size here.
 
-# Steps used un the Notebook:
+# Steps used in the Notebook:
 (1)Importing the Library.
 
 (2)Importing and Exploring the dataset.
