@@ -25,7 +25,7 @@ It halts creating and optimizing clusters when either
 
 -The defined number of iterations has been achieved.
 
-## Steps in K-Means Notebooks:
+## Steps in K-Means Notebook:
 (1)Importing the library.
 
 (2)Importing the Data.
