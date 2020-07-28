@@ -8,6 +8,9 @@ In essence, multiple regression is the extension of ordinary least-squares (OLS)
 
 Simple linear regression is a function that allows an analyst or statistician to make predictions about one variable based on the information that is known about another variable. Linear regression can only be used when one has two continuous variables—an independent variable and a dependent variable. The independent variable is the parameter that is used to calculate the dependent variable or outcome. A multiple regression model extends to several explanatory variables.
 
+![image](https://user-images.githubusercontent.com/55452866/88674390-618f9f00-d107-11ea-9426-8ea99f740c53.png)
+
+
 The multiple regression model is based on the following assumptions:
 
 (1)There must be a linear relationship between the outcome variable and the independent variables.  Scatterplots can show whether there is a linear or curvilinear relationship.
