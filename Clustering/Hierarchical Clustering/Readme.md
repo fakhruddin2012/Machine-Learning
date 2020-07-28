@@ -73,3 +73,6 @@ In both agglomerative and divisive hierarchical clustering, users need to specif
 (4)Training the model.
 
 (5)Visualising the Cluster.
+
+![image](https://user-images.githubusercontent.com/55452866/88622406-654c0300-d0c0-11ea-85de-b3e06bd76d45.png)
+
