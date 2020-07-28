@@ -56,3 +56,6 @@ In Divisive or DIANA(DIvisive ANAlysis Clustering) is a top-down clustering meth
 There is evidence that divisive algorithms produce more accurate hierarchies than agglomerative algorithms in some circumstances but is conceptually more complex.
 
 In both agglomerative and divisive hierarchical clustering, users need to specify the desired number of clusters as a termination condition(when to stop merging).
+
+![hierarchy cluster type](https://user-images.githubusercontent.com/55452866/88622109-ac85c400-d0bf-11ea-803f-b90c718c8adb.jpeg)
+
