@@ -22,3 +22,11 @@ The multiple regression model is based on the following assumptions:
 (4)Homoscedasticity–This assumption states that the variance of error terms are similar across the values of the independent variables.  A plot of standardized residuals versus predicted values can show whether points are equally distributed across all values of the independent variables.
 
 (5)Multiple linear regression requires at least two independent variables, which can be nominal, ordinal, or interval/ratio level variables.  A rule of thumb for the sample size is that regression analysis requires at least 20 cases per independent variable in the analysis. Learn more about sample size here.
+
+# Steps used un the Notebook:
+(1)Importing the Library.
+(2)Importing and Exploring the dataset.
+(3)Dividing the dataset into labels and target.
+(4)Encoding the categorial label.
+(5)Training the Model.
+(6)Predicting the results.
