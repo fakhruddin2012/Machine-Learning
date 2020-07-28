@@ -67,6 +67,9 @@ In both agglomerative and divisive hierarchical clustering, users need to specif
 
 (3)Using the dendrogram to find otimal number of clusters.
 
+![image](https://user-images.githubusercontent.com/55452866/88622343-3f266300-d0c0-11ea-8a7c-8f3a3cf8a78f.png)
+
+
 (4)Training the model.
 
 (5)Visualising the Cluster.
