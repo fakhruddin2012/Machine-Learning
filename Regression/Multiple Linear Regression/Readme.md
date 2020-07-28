@@ -25,8 +25,13 @@ The multiple regression model is based on the following assumptions:
 
 # Steps used un the Notebook:
 (1)Importing the Library.
+
 (2)Importing and Exploring the dataset.
+
 (3)Dividing the dataset into labels and target.
+
 (4)Encoding the categorial label.
+
 (5)Training the Model.
+
 (6)Predicting the results.
