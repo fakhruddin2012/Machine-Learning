@@ -1,4 +1,20 @@
-# What Is Multiple Linear Regression (MLR)?
+
+# Table of Contents
+
+* [Background](#What-Is-Multiple-Linear-Regression-(MLR))
+* [Steps used in the Notebook](#Steps-used-in-the-Notebook)
+  * [Importing the Library.](#(1)Importing-the-Library)
+  * [Importing and Exploring the dataset.](#(2)Importing-and-Exploring-the-dataset)
+  * [Dividing the dataset into labels and target.](#(3)Dividing-the-dataset-into-labels-and-target)
+  * [Encoding the categorial label.](#(4)Encoding-the-categorial-label)
+  * [Training the Model.](#(5)Training-the-Model)
+  * [Predicting the results.](#(6)Predicting-the-results)
+  
+  
+  
+  
+
+## Background
 
 Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable. The goal of multiple linear regression (MLR) is to model the linear relationship between the explanatory (independent) variables and response (dependent) variable.
 
@@ -23,15 +39,16 @@ The multiple regression model is based on the following assumptions:
 
 (5)Multiple linear regression requires at least two independent variables, which can be nominal, ordinal, or interval/ratio level variables.  A rule of thumb for the sample size is that regression analysis requires at least 20 cases per independent variable in the analysis. Learn more about sample size here.
 
-# Steps used in the Notebook:
-(1)Importing the Library.
+## Steps used in the Notebook:
 
-(2)Importing and Exploring the dataset.
+### (1)Importing the Library
 
-(3)Dividing the dataset into labels and target.
+### (2)Importing and Exploring the dataset
 
-(4)Encoding the categorial label.
+### (3)Dividing the dataset into labels and target
 
-(5)Training the Model.
+### (4)Encoding the categorial label
 
-(6)Predicting the results.
+### (5)Training the Model
+
+### (6)Predicting the results
