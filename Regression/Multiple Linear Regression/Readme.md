@@ -43,6 +43,8 @@ The multiple regression model is based on the following assumptions:
 
 ### (1)Importing the Library
 
+Here we are importing important libraries like pandas,numpy,matplotlib,seaborn etc.
+
 ### (2)Importing and Exploring the dataset
 
 ### (3)Dividing the dataset into labels and target
